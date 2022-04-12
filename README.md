@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am John, a software developer and architect working in C# .NET and Azure. If you wan to contact me the best place is twitter.
+Hi, I am John, a software developer and architect working in C# .NET and Azure. If you would like to contact me the best place is to find me on twitter.
 
 [![Twitter: Johnkilmister](https://img.shields.io/twitter/follow/johnkilmister?label=)](https://twitter.com/johnkilmister)
 [![GitHub Blueboxes](https://img.shields.io/github/followers/blueboxes?label=&style=social)](https://github.com/blueboxes)
