@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Johnkilmister](header.png)
 
 Hi, I am John, a software developer and architect working in C# .NET and Azure. If you would like to contact me the best place is to find me on twitter.
 
