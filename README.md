@@ -1,7 +1,7 @@
 
 ![Johnkilmister](header.png)
 
-Hi, I am John, Microsoft MVP (Azure), a software developer and architect working in C# .NET and Azure. If you would like to contact me the best place is to find me on twitter or find me on [my blog]((https://www.blueboxes.co.uk/)).
+Hi, I am John, a Microsoft MVP (Azure), software developer and architect working in C# .NET and Azure. If you would like to contact me the best place is to find me on twitter or find me on [my blog]((https://www.blueboxes.co.uk/)).
 
 [![Twitter: Johnkilmister](https://img.shields.io/twitter/follow/johnkilmister?label=)](https://twitter.com/johnkilmister)
 [![GitHub Blueboxes](https://img.shields.io/github/followers/blueboxes?label=&style=social)](https://github.com/blueboxes)
